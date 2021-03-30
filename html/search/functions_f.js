@@ -1,8 +1,19 @@
 var searchData=
 [
-  ['qidx_5fchartab_1359',['qidx_chartab',['../prototypes_8h.html#aa10aa8c5456522d9b2616cb8e7a0dcdf',1,'funvars.c']]],
-  ['qidx_5fstr_1360',['qidx_str',['../prototypes_8h.html#a3aca7d5ea0a89af64d1ca2ceccc2e907',1,'funvars.c']]],
-  ['qpid_5fnext_1361',['qpid_next',['../cque_8c.html#a1122a873593fa4e2597807cb59064f4d',1,'qpid_next(void):&#160;cque.c'],['../prototypes_8h.html#a1122a873593fa4e2597807cb59064f4d',1,'qpid_next(void):&#160;cque.c']]],
-  ['que_5fnext_1362',['que_next',['../cque_8c.html#a7b181f9619cd91f255893143c1180d19',1,'que_next(void):&#160;cque.c'],['../prototypes_8h.html#a7b181f9619cd91f255893143c1180d19',1,'que_next(void):&#160;cque.c']]],
-  ['que_5fwant_1363',['que_want',['../cque_8c.html#a241087fa0d439b2aa4a06372f759535b',1,'que_want(BQUE *entry, dbref ptarg, dbref otarg):&#160;cque.c'],['../prototypes_8h.html#a01f8e639bf5a68b95168805e69c47631',1,'que_want(BQUE *entry, dbref ptarg, dbref otarg):&#160;cque.c']]]
+  ['random_5frange_3125',['random_range',['../fnhelper_8c.html#a3dd5c9584e30ef375e10bd0991925150',1,'fnhelper.c']]],
+  ['register_5fapi_3126',['register_api',['../api_8c.html#ac928d3a05c5f094bc687ad18d4f34c5e',1,'api.c']]],
+  ['register_5fcommands_3127',['register_commands',['../api_8c.html#ae5bb1b336c21c7e64ea8c77141ef7673',1,'api.c']]],
+  ['register_5fdbtype_3128',['register_dbtype',['../api_8c.html#ac88119314cc5dc4a2de408653b586f64',1,'api.c']]],
+  ['register_5ffunctions_3129',['register_functions',['../api_8c.html#a3e28939ab772d85f2ce15d7499908871',1,'api.c']]],
+  ['register_5fhashtables_3130',['register_hashtables',['../api_8c.html#a34beca859d15650522ebe3a800b2e702',1,'api.c']]],
+  ['register_5fprefix_5fcmds_3131',['register_prefix_cmds',['../api_8c.html#a0f1ec855f01525a7c9f05ca64d2cbcdf',1,'api.c']]],
+  ['remap_5fcolors_3132',['remap_colors',['../stringutil_8c.html#a860915ab1e4fa7b3525b4ef1e18dd4ea',1,'stringutil.c']]],
+  ['remove_5fwaitq_3133',['remove_waitq',['../cque_8c.html#ac9c417fbe72f221f0d5273cf5c4cdabd',1,'cque.c']]],
+  ['repeatchar_3134',['repeatchar',['../stringutil_8c.html#a8cb207aba5b27261862d0bccc3225bff',1,'stringutil.c']]],
+  ['replace_5fstring_3135',['replace_string',['../stringutil_8c.html#a70c4fc8bc55fd0849a4ae9d573a000e3',1,'stringutil.c']]],
+  ['report_3136',['report',['../bsd_8c.html#aa29b1ca6fcc39cd37784e3989d442dda',1,'bsd.c']]],
+  ['request_5fapi_5ffunction_3137',['request_api_function',['../api_8c.html#afdb6bfed2f4831aa244acc32d81f3ad7',1,'api.c']]],
+  ['reset_5fprefix_5fcmds_3138',['reset_prefix_cmds',['../command_8c.html#a855f9a541e924ef6b52df935695f438f',1,'command.c']]],
+  ['restore_5fglobal_5fregs_3139',['restore_global_regs',['../eval_8c.html#ae1ff6aaeba1bed1e8a4006ed25a16a38',1,'eval.c']]],
+  ['rgb2xterm_3140',['rgb2xterm',['../stringutil_8c.html#abb89350fd91a53ef5350e7bee1945a3d',1,'stringutil.c']]]
 ];

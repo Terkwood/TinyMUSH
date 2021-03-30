@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['n_5fansi_5fnormal_1848',['N_ANSI_NORMAL',['../stringutil_8h.html#af2014dada9d5077942daaa89280964b0',1,'N_ANSI_NORMAL():&#160;stringutil.h'],['../stringutil_8h.html#af2014dada9d5077942daaa89280964b0',1,'N_ANSI_NORMAL():&#160;stringutil.h']]],
-  ['nextchar_1849',['NEXTCHAR',['../eval_8c.html#a10ba17c05db8be2dffc313bb7611d989',1,'eval.c']]],
-  ['noperm_1850',['NOPERM',['../db_8h.html#a9dd732461e256bece9a4f74941e6ad96',1,'db.h']]],
-  ['nothing_1851',['NOTHING',['../db_8h.html#aad4a7ebff687dc5228cc3fd4d25067f2',1,'db.h']]]
+  ['key_4326',['KEY',['../constants_8h.html#a8ae9d53f33f46cfcfcb9736e6351452a',1,'constants.h']]],
+  ['kill_5fkill_4327',['KILL_KILL',['../constants_8h.html#a010b82959e3330374dc63c6b424170be',1,'constants.h']]],
+  ['kill_5fslay_4328',['KILL_SLAY',['../constants_8h.html#ae0e3e57220b8fea12ef4e8d50515e7e1',1,'constants.h']]]
 ];

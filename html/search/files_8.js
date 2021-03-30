@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['prototypes_2eh_1057',['prototypes.h',['../prototypes_8h.html',1,'']]]
+  ['log_2ec_2494',['log.c',['../log_8c.html',1,'']]],
+  ['look_2ec_2495',['look.c',['../look_8c.html',1,'']]]
 ];
